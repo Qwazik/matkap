@@ -1,0 +1,11 @@
+/* Large desktop */
+@media (max-width: 1200px) { 
+	.tel{
+		font-size: 48px;
+	}
+	.how__item{
+	width: 170px !important;
+	margin-left: 5px !important;
+	
+	}
+}
